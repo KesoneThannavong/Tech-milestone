@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+}
+
+.eniac {
+    background-color: rgba(156, 201, 228, 0.884);
+    padding: 25px;
+}
+
+.ibm {
+    background-color: rgba(156, 201, 228, 0.884);
+    padding: 25px;
+}
+
+.apple {
+    background-color: rgba(156, 201, 228, 0.884);
+    padding: 25px;
+}
+
+.launch {
+    background-color: rgba(156, 201, 228, 0.884);
+    padding: 25px;
+}
+
+.web {
+    background-color: rgba(156, 201, 228, 0.884);
+    padding: 25px;  
+}
